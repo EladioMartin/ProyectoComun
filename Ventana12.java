@@ -20,9 +20,14 @@ public class Ventana12 extends JFrame{
 		//PANEL PRINCIPAL
 		JPanel mainPanel= new JPanel();
 		mainPanel.setPreferredSize(new Dimension(393, 852));
+		mainPanel.setLayout(new FlowLayout());
 		mainPanel.setBackground(Color.white);
 		
 		this.add(mainPanel);
+		
+		
+		
+		//HOla
 		
 		
 		
