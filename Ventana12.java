@@ -27,7 +27,7 @@ public class Ventana12 extends JFrame{
 		
 		
 		
-		//HOla
+		//HOlahjgfhfgh
 		
 		
 		
